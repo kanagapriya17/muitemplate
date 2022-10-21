@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  
+}
+
+.navbar.active{
+  background-color: rgb(223, 108, 14);
+  color: white;
+}
+
+
